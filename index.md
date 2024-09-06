@@ -4,6 +4,9 @@ layout: about
 
 # About Me
 
+I am currently looking for a job opportunity where I can contribute to and further develop my expertise in machine learning aided cryptanalysis, including side-channel analysis.
+If you are interested, please contact me via [email](donggeun.kwon@gmail.com).
+
 ## Current
 PhD Candidate in Graduate School of Information Security and Institute of Cyber Security & Privacy (ICSP), Korea University.
 
