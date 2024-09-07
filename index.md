@@ -25,7 +25,6 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
     - Bachelor of Science in Mathematics, College of Science and Technology
     - Bachelor of Engineering in Convergence Security, Graduate School of Information Security
 
-
 ----
 
 ## Experience
@@ -38,7 +37,6 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
 ----
 
 ## Publication
-
 * Under Review, **Donggeun Kwon**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong., 2024.
 * Differential Factors Revisited: A Sufficient Condition for the Practical Use of Differential Factors, Seonkyu Kim, Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, **Donggeun Kwon**, Deukjo Hong, Jaechul Sung, Seokhie Hong., IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024.
 * Shining Light on the Shadow: Full-round Practical Distinguisher for Lightweight Block Cipher Shadow, Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, **Donggeun Kwon**, Dongjae Lee, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong., Cryptology ePrint Archive, 2023.
@@ -47,6 +45,7 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
 * Plaintext Recovery Attack of PRESENT Using Deep Learning, Donghoon Kim, **Donggeun Kwon**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong., Proceedings of the Korea Information Processing Society Conference, 2020.
 * Highly Efficient SCA-Resistant Binary Field Multiplication on 8-Bit AVR Microcontrollers, Seog Chung Seo, **Donggeun Kwon**., Applied Sciences, 2020.
 * Improving non-profiled side-channel analysis using auto-encoder based noise reduction preprocessing, **Donggeun Kwon**, Sunghyun Jin, HeeSeok Kim, Seokhie Hong., Journal of the Korea Institute of Information Security & Cryptology, 2019.
+* 연산 순서 변경에 따른 범용 프로세서에서 효율적인 CHAM-like 구조, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, SunyeopKim, **Donggeun Kwon**, Deukjo Hong, Jaechul Sung, Seokhie Hong, Journal of the Korea Institute of Information Security & Cryptology, 2024.
 * ARMV8 환경에서 NIST LWC SPARKLE 효율적 구현, Hanbeom Shin, Gyusang Kim, Myeonghoon Lee, Insung Kim, SunyeopKim, **Donggeun Kwon**, Seonggyeom Kim, Seogchung Seo, Seokhie Hong., Journal of the Korea Institute of Information Security & Cryptology, 2023.
 * 차분 인자의 적용에 대한 충분조건과 정확한 키 복구 계산, Seonkyu Kim, Myoungsu Shin, Hanbum Shin, Insung Kim, Sunyeop Kim, **Donggeun Kwon**, Deukjo Hong, Jaechul Sung, Seokhie Hong., Conference on Information Security and Cryptography Winter (CISC-W), 2023.
 * 연산 순서 변경에 따른 범용 프로세서에서 효율적인 LEA-like/CHAM-like 구조, Myoungsu Shin, Seonkyu Kim, Hanbum Shin, Insung Kim, Sunyeop Kim, **Donggeun Kwon**, Deukjo Hong, Jaechul Sung, Seokhie Hong., Conference on Information Security and Cryptography Winter (CISC-W), 2023.
@@ -80,7 +79,6 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
 * Security IP 및 Security Solution의 취약성 분석 및 대응 Scheme 개발
 * (Confidential)
 
-
 ## Honor and Award
 * Semester High Honor (GPA: 4.5/4.5), 1st Semester 2017
 * Prize in the National Cryptography Technology Professional Training Course, hosted by National Security Research institute, funded by National Intelligence Service (NIS), 2019
@@ -90,7 +88,6 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
 * ETRI (Electronics and Telecommunications Research Institute) President Award in the Conference on Information Security and Cryptography-Summer, Korea Institute of Information Security and Cryptology, 2023
 * Excellence Award in the Theory Category of the National Cryptography Contest, Korea Cryptography Forum, 2023
 
-
 ## Scholarship and Grant
 * POSCO SCHOLARSHIPS, 2013
 * VERITAS PROGRAM SCHOLARSHIPS, 2015
@@ -99,11 +96,9 @@ PhD Candidate in Graduate School of Information Security and Institute of Cyber 
 * RESEARCH ASSISTANT SCHOLARSHIPS, 2018-2019
 * Brain Korea 21 (BK21) Scholarships, Korea Research Foundation, 2021-2023
 
-
 ## Patent and Copyright
 * [Patent] OPERATING METHOD FOR ELECTRONIC APPARATUS FOR TRANSMITTING INFORMATION AND ELECTRONIC APPARATUS SUPPORTING THEREOF, Sangjin Lee, Deukjo Hong, HeeSeok Kim, **Donggeun Kwon**, KR10-2023-0034086, 2023.
 * [Software] 128-bit Lightweight Block Cipher with an Efficient Side-channel Countermeasure, **Donggeun Kwon**, Seokhie Hong., C-2020-044034, 2020.
-
 
 ## Skill
 * C/C++, and Assembly language for AVR, MSP, ARM 
